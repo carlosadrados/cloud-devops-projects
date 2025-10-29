@@ -53,8 +53,8 @@ I enjoy building secure, automated, and scalable systems — always learning by 
 
 📍 Based in Madrid, Spain
 
-🔗 LinkedIn [LinkedIn](https://www.linkedin.com/in/carlos-adrados-ben%C3%ADtez-142a48396/)
+🔗 [LinkedIn](https://www.linkedin.com/in/carlos-adrados-ben%C3%ADtez-142a48396/)
 
-💻 GitHub [GitHub](https://github.com/carlosadrados)
+💻 [GitHub](https://github.com/carlosadrados)
 
 

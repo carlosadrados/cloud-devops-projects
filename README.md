@@ -52,5 +52,9 @@ I’m Carlos Adrados, a Telecommunications Engineering student focused on Cloud 
 I enjoy building secure, automated, and scalable systems — always learning by doing.
 
 📍 Based in Madrid, Spain
-[LinkedIn](https://www.linkedin.com/in/carlos-adrados-ben%C3%ADtez-142a48396/)
-[GitHub](https://github.com/carlosadrados)
+
+🔗 LinkedIn [LinkedIn](https://www.linkedin.com/in/carlos-adrados-ben%C3%ADtez-142a48396/)
+
+💻 GitHub [GitHub](https://github.com/carlosadrados)
+
+

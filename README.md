@@ -19,7 +19,7 @@ Each project focuses on real infrastructure, security, and automation concepts.
 Hands-on project focused on securing a Linux server with SSH hardening and firewall rules.
 
 🔗 Repository:  
-👉 https://github.com/carlosadrados/Project-01-secure-linux-server
+👉 https://github.com/carlosadrados/Proyect-01-secure-linux-server
 
 ---
 

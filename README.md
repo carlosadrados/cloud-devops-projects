@@ -1,57 +1,47 @@
 ☁️ Cloud & DevOps Projects
 
-Practical projects for learning and mastering Cloud Computing, DevOps, and Infrastructure Automation.
-Focused on hands-on experience with Linux, Docker, AWS, Terraform, CI/CD, and Monitoring tools.
+This repository acts as a central hub for my hands-on Cloud & DevOps learning projects.
+Each project focuses on real infrastructure, security, and automation concepts.
 
-🚀 Project Roadmap
-Phase 1 — Foundations (10 Projects)
+---
 
-Linux + Nginx + SSH + UFW
+## 👤 Personal Portfolio
 
-Dockerize a simple web app
+🔗 **Carlos Adrados – Cloud & DevOps Portfolio**  
+👉 https://github.com/carlosadrados/carlosadrados
 
-AWS Basics (EC2, S3, IAM)
+---
 
-Terraform — Infrastructure as Code
+## 🚀 Completed Projects
 
-CI/CD with GitHub Actions or Jenkins
+### 🔐 Project 01 — Secure Linux Server
+**Technologies:** Linux · SSH · UFW · Nginx  
+Hands-on project focused on securing a Linux server with SSH hardening and firewall rules.
 
-Monitoring with Prometheus + Grafana
+🔗 Repository:  
+👉 https://github.com/carlosadrados/Project-01-secure-linux-server
 
-DevSecOps fundamentals
+---
 
-Server & container hardening
+### ☁️ Project 02 — AWS EC2 Infrastructure with Nginx
+**Technologies:** AWS EC2 · Amazon Linux · Security Groups · Nginx  
+Deployed and secured a public EC2 instance serving a web application with Nginx.
 
-Advanced IAM roles in AWS
+🔗 Repository:  
+👉 https://github.com/carlosadrados/sigma-infra-v1
 
-CloudTrail + Alarms (audit & logging)
+---
 
-🎯 After Phase 1: Solid portfolio ready for Junior Cloud Engineer applications.
+## 🧠 Learning Focus
+- Linux system administration
+- Cloud infrastructure (AWS)
+- Security fundamentals
+- Infrastructure documentation
+- Cost awareness and resource management
 
-Phase 2 — Advanced Cloud Systems (7 Projects)
+More projects will be added progressively as part of my Cloud & DevOps learning path.
 
-Kubernetes cluster & deployments
 
-GitOps (ArgoCD / Flux)
-
-Vault — Secret management
-
-AWS Lambda & Serverless
-
-Cost optimization in AWS
-
-SRE — High availability & resilience
-
-Multi-cloud project (AWS + Azure / GCP)
-
-🏆 After Phase 2: Mid-level readiness — mastering automation, scalability & reliability.
-
-👨‍💻 About Me
-
-I’m Carlos Adrados, a Telecommunications Engineering student focused on Cloud Computing, DevOps, and Cybersecurity.
-I enjoy building secure, automated, and scalable systems — always learning by doing.
-
-📍 Based in Madrid, Spain
 
 🔗 [LinkedIn](https://www.linkedin.com/in/carlos-adrados-ben%C3%ADtez-142a48396/)
 

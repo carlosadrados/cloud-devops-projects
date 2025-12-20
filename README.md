@@ -28,7 +28,7 @@ Hands-on project focused on securing a Linux server with SSH hardening and firew
 Deployed and secured a public EC2 instance serving a web application with Nginx.
 
 🔗 Repository:  
-👉 https://github.com/carlosadrados/sigma-infra-v1
+👉 https://github.com/carlosadrados/Proyect-01-secure-linux-server
 
 ---
 
